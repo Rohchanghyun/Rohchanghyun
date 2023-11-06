@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <a href="https://rohchanghyun.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/githubpages-61677A?style=flat&logo=githubpages&logoColor=7C81AD"/>
 </a> 
-<a href="https://rohchanghyun.github.io/" target="_blank">
+<a href="https://www.instagram.com/hyuun_e_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-61677A?style=flat&logo=Instagram&logoColor=E4405F"/>
 </a> 
-<a href="https://rohchanghyun.github.io/" target="_blank">
+<a href="ggara376@gmail.com/" target="_blank">
     <img src="https://img.shields.io/badge/ggara376@gmail.com-61677A?style=flat&logo=minutemailer&logoColor=30B980"/>
 </a>
 
@@ -31,7 +31,9 @@ Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>
 
 I love taking photos📸, coffee☕ and travel🛫
 
-
+</n>
+</n>
+</n>
 🚀Skills</n>
 <a href="https://rohchanghyun.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/python-61677A?style=flat&logo=python&logoColor=3776AB"/>
@@ -61,4 +63,4 @@ I love taking photos📸, coffee☕ and travel🛫
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohchanghyun&exclude_repo=Rohchanghyun.github.io&layout=compact&theme=ayu-mirage" />
 </a>
 
-[![DDOING's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohchanghyun&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/Rohchanghyun/github-readme-activity-graph)
+[![DDOING's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rohchanghyun&theme=tokyo-night)](https://github.com/Rohchanghyun/github-readme-activity-graph)
