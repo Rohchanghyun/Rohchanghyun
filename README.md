@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻📸☕🛫&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=DDOING💻📸☕🛫&fontAlign=70)
 
 
 
@@ -31,12 +31,26 @@ Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>
 
 I love taking photos📸, coffee☕ and travel🛫
 
-<p align="center"><img src="\assets\images\bbomi.jpg"><img src="\assets\images\kkami.jpg"></p>
+
+## 🚀Skills
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/python-5C5470?style=flat&logo=python&logoColor=3776AB"/>
+</a> 
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/pytorch-5C5470?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+</a> 
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/opencv-5C5470?style=flat&logo=opencv&logoColor=#5C3EE8"/>
+</a> 
+
+<p align="center"><img src="\assets\images\bbomi.jpg" width="700" height="370"><img src="\assets\images\kkami.jpg" width="700" height="370"></p>
 
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohchanghyun&theme=ayu-mirage&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohchanghyun&theme=ayu-mirage&show_icons=true"  />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohchanghyun&exclude_repo=Rohchanghyun.github.io&layout=compact&theme=ayu-mirage" />
 </a>
+
+[![DDOING's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rohchanghyun&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
