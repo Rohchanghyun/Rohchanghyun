@@ -27,9 +27,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/ggara376@gmail.com-61677A?style=flat&logo=minutemailer&logoColor=30B980"/>
 </a>
 
-<font size=6>Hello!!👋 I'm Studying *<span style = "color:#88c8ff">Computer Vision</span>* now!</font>
+Hello!!👋 I'm Studying *<span style = "color:#88c8ff">Computer Vision</span>* now!
 
-<font size=6>I love taking photos📸, coffee☕ and travel🛫</font>
+I love taking photos📸, coffee☕ and travel🛫
 
 <br>
 <br>
