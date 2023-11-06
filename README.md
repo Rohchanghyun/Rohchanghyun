@@ -35,23 +35,18 @@ I love taking photos📸, coffee☕ and travel🛫
 </n>
 </n>
 🚀Skills</n>
-<a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/python-61677A?style=flat&logo=python&logoColor=3776AB"/>
-</a> 
-<a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/pytorch-61677A?style=flat&logo=pytorch&logoColor=EE4C2C"/>
-</a> 
-<a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/opencv-61677A?style=flat&logo=opencv&logoColor=5C3EE8"/>
-</a> 
+<img src="https://img.shields.io/badge/python-61677A?style=flat&logo=python&logoColor=3776AB"/>
+
+<img src="https://img.shields.io/badge/pytorch-61677A?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+
+<img src="https://img.shields.io/badge/opencv-61677A?style=flat&logo=opencv&logoColor=5C3EE8"/>
+
 
 ⚒️Tools</n>
-<a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/obsidian-61677A?style=flat&logo=obsidian&logoColor=7C3AED"/>
-</a> 
-<a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/notion-61677A?style=flat&logo=notion&logoColor=FFFFFF"/>
-</a> 
+<img src="https://img.shields.io/badge/obsidian-61677A?style=flat&logo=obsidian&logoColor=7C3AED"/>
+ 
+<img src="https://img.shields.io/badge/notion-61677A?style=flat&logo=notion&logoColor=FFFFFF"/>
+
 
 <p align="center"><img src="\assets\images\bbomi.jpg" width="200" height="200"><img src="\assets\images\kkami.jpg" width="200" height="200"></p>
 
