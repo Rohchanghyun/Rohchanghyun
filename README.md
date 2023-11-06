@@ -31,9 +31,12 @@ Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>
 
 I love taking photos📸, coffee☕ and travel🛫
 
+<p align="center"><img src="\assets\images\bbomi.jpg"><img src="\assets\images\kkami.jpg"></p>
+
+
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohchanghyun&exclude_repo=Rohchanghyun.github.io&layout=compact&theme=ayu-mirage" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rohchanghyun&theme=ayu-mirage&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=ayu-mirage&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohchanghyun&exclude_repo=Rohchanghyun.github.io&layout=compact&theme=ayu-mirage" />
 </a>
