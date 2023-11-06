@@ -13,18 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=DDOING💻📸☕🛫&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&animation=fadeIn&section=footer&text=DDOING💻📸☕🛫&fontAlign=70)
 
 
 
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/githubpages-5C5470?style=flat&logo=githubpages&logoColor=7C81AD"/>
+    <img src="https://img.shields.io/badge/githubpages-61677A?style=flat&logo=githubpages&logoColor=7C81AD"/>
 </a> 
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-5C5470?style=flat&logo=Instagram&logoColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-61677A?style=flat&logo=Instagram&logoColor=E4405F"/>
 </a> 
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/ggara376@gmail.com-5C5470?style=flat&logo=minutemailer&logoColor=30B980"/>
+    <img src="https://img.shields.io/badge/ggara376@gmail.com-61677A?style=flat&logo=minutemailer&logoColor=30B980"/>
 </a>
 
 Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>* now!
@@ -32,18 +32,20 @@ Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>
 I love taking photos📸, coffee☕ and travel🛫
 
 
-## 🚀Skills
+🚀Skills
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/python-5C5470?style=flat&logo=python&logoColor=3776AB"/>
+    <img src="https://img.shields.io/badge/python-61677A?style=flat&logo=python&logoColor=3776AB"/>
 </a> 
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/pytorch-5C5470?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+    <img src="https://img.shields.io/badge/pytorch-61677A?style=flat&logo=pytorch&logoColor=EE4C2C"/>
 </a> 
 <a href="https://rohchanghyun.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/opencv-5C5470?style=flat&logo=opencv&logoColor=#5C3EE8"/>
+    <img src="https://img.shields.io/badge/opencv-61677A?style=flat&logo=opencv&logoColor=#5C3EE8"/>
 </a> 
 
-<p align="center"><img src="\assets\images\bbomi.jpg" width="700" height="370"><img src="\assets\images\kkami.jpg" width="700" height="370"></p>
+Tools
+
+<p align="center"><img src="\assets\images\bbomi.jpg" width="200" height="200"><img src="\assets\images\kkami.jpg" width="200" height="200"></p>
 
 
 <a href="s">
