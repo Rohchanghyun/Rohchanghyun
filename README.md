@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Rohchanghyun/Rohchanghyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/githubpages-4B527E?style=flat&logo=githubpages&logoColor=7C81AD"/></a>
+## <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/githubpages-5C5470?style=flat&logo=githubpages&logoColor=7C81AD"/></a> <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-5C5470?style=flat&logo=Instagram&logoColor=E4405F"/></a> <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/ggara376@gmail.com-5C5470?style=flat&logo=minutemailer&logoColor=30B980"/></a>
+
+### Hi there 👋 I'm Studying Computer Vision now!\n
+
+
+### I love taking photos📸, coffee☕ and travel🛫
