@@ -13,9 +13,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/githubpages-5C5470?style=flat&logo=githubpages&logoColor=7C81AD"/></a> <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-5C5470?style=flat&logo=Instagram&logoColor=E4405F"/></a> <a href="https://rohchanghyun.github.io/" target="_blank"><img src="https://img.shields.io/badge/ggara376@gmail.com-5C5470?style=flat&logo=minutemailer&logoColor=30B980"/></a>
-
-### Hi there 👋 I'm Studying Computer Vision now!\n
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=💻📸☕🛫&fontAlign=70)
 
 
-### I love taking photos📸, coffee☕ and travel🛫
+
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/githubpages-5C5470?style=flat&logo=githubpages&logoColor=7C81AD"/>
+</a> 
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-5C5470?style=flat&logo=Instagram&logoColor=E4405F"/>
+</a> 
+<a href="https://rohchanghyun.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/ggara376@gmail.com-5C5470?style=flat&logo=minutemailer&logoColor=30B980"/>
+</a>
+
+Hello!!👋 I'm Studying *<span style = "color:#88c8ff"> Computer Vision </span>* now!
+
+I love taking photos📸, coffee☕ and travel🛫
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohchanghyun&exclude_repo=Rohchanghyun.github.io&layout=compact&theme=ayu-mirage" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=ayu-mirage&show_icons=true" width="42%" />
+</a>
