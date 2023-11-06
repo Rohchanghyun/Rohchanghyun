@@ -35,13 +35,10 @@ I love taking photos📸, coffee☕ and travel🛫
 </n>
 </n>
 🚀Skills</n>
-
-
 <img src="https://img.shields.io/badge/python-61677A?style=flat&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/pytorch-61677A?style=flat&logo=pytorch&logoColor=EE4C2C"/><img src="https://img.shields.io/badge/opencv-61677A?style=flat&logo=opencv&logoColor=5C3EE8"/>
 
 
 ⚒️Tools</n>
-
 <img src="https://img.shields.io/badge/obsidian-61677A?style=flat&logo=obsidian&logoColor=7C3AED"/><img src="https://img.shields.io/badge/notion-61677A?style=flat&logo=notion&logoColor=FFFFFF"/>
 
 
